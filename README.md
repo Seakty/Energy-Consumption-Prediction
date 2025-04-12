@@ -5,7 +5,6 @@ This project predicts energy consumption using machine learning techniques. Buil
 ## 🔧 Tools Used
 - Python
 - pandas, numpy
-- scikit-learn
 - matplotlib, seaborn
 - Jupyter Notebook
 
