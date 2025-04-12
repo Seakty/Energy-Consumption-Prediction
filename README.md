@@ -18,3 +18,4 @@ I use it from kaggle.
 
 ## 📈 Results
 The best-performing model was Linear-Regression with r2-score 0.799.
+Model is y = 138.0289 * Square Footage + 50.9844 * Number of Occupants + 54.0334 * Appliances Used + 829.5917
