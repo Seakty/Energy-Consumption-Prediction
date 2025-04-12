@@ -10,7 +10,7 @@ This project predicts energy consumption using machine learning techniques. Buil
 - Jupyter Notebook
 
 ## 📊 Dataset
-Used [Your Dataset Source Here].
+I use it from kaggle.
 
 ## 🚀 How to Run
 1. Clone the repo
@@ -18,7 +18,4 @@ Used [Your Dataset Source Here].
 3. Follow the step-by-step explanations and run the cells
 
 ## 📈 Results
-The best-performing model was XGBoost with 92% accuracy.
-
-## 🙌 Acknowledgements
-Thanks to [data source or inspiration].
+The best-performing model was Linear-Regression with r2-score 0.799.
